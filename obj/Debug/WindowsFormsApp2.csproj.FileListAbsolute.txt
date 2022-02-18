@@ -1,0 +1,20 @@
+C:\Users\roman\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\roman\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\roman\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\roman\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\$uchoba\;\задания ИСРПО\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
