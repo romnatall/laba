@@ -18,3 +18,13 @@ E:\$uchoba\;\задания ИСРПО\WindowsFormsApp1\obj\Debug\WindowsFormsAp
 E:\$uchoba\;\задания ИСРПО\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 E:\$uchoba\;\задания ИСРПО\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\$uchoba\;\задания ИСРПО\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\AAA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\AAA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\AAA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\AAA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

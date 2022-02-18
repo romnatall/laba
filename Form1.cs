@@ -95,6 +95,7 @@ namespace WindowsFormsApp1
             chart1.Series.Add("curr");
             chart1.Series["curr"].ChartType = SeriesChartType.Line;
             chart1.Series["curr"].XValueType = ChartValueType.DateTime;
+            chart1.Series["curr"].LegendText = valutaName;
 
             foreach (XElement phoneElement in xdoc.Element("ValCurs").Elements("Record"))
             {
